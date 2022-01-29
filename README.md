@@ -34,7 +34,7 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | ------------------------------------------------------------ | -------------------- |
 | *Criando seu primeiro repositório no GitHub para compartilhar seu progresso.* | *Concluído* :trophy: |
 | *Desafios iniciais - GFT Start #3 dotNET*                    | *Concluído*:trophy:  |
-| *Abstraindo um jogo de RPG usando orientação a objeto com C#* | *Em Andamento*       |
+| *Abstraindo um jogo de RPG usando orientação a objeto com C#* | *Concluído*:trophy:  |
 | *Criando um APP simples de cadastro de séries em dotNET*     | *Concluído*:trophy:  |
 | *Desafios básicos - GFT Start #3 dotNET*                     | *Concluído*:trophy:  |
 
